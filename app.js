@@ -25,7 +25,7 @@
 
        //"https://10.10.11.26:9301/miniApp/", 
        //"https://10.10.11.34:443/miniApp/",
-      //https://olddcblink.dcblink.com/   127.0.0.1:443  https://wxxcx.dcblink.com/"
+      //  127.0.0.1:443  https://wxxcx.dcblink.com/"
       
     },
 
